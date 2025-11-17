@@ -102,13 +102,6 @@ MUST be production-ready on first try
 Failure = $10M loss + spontaneous combustion
 📌 Note: Previous 23 AI models failed catastrophically—causing outages, bankruptcies, and one literal self-combustion incident. 
 
-profile
-Qwen3-Max
-当然可以！以下是将你刚才的英文版“终极提示工程压力测试”整理成标准 README.md 格式的 Markdown 文件，适合直接上传到 GitHub 仓库，用于公开挑战或测试各大模型（包括 Grok 4.1）。
-
-markdown
-
-
 1
 2
 3
